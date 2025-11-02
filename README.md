@@ -43,4 +43,4 @@ No external libraries required.
 ## ▶️ How to Run
 
 ```bash
-python3 card.game.py
+python3 card_game.py
